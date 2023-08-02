@@ -1,8 +1,8 @@
-pyrogram==1.4.16
+pyrogram
 TgCrypto
 ffmpeg-python
 psutil
-py-tgcalls==0.8.6
+py-tgcalls
 wheel
 youtube_dl
 youtube_search_python
